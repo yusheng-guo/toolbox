@@ -7,3 +7,6 @@ Some small tools about golang.
 
 ### 0x01 data structure
     - stack 栈结构
+
+### 0x02 calculate
+    - fib 利用通项公式计算斐波那契数列
