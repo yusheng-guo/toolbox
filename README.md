@@ -13,3 +13,10 @@ Some small tools about golang.
 
 ### 0x03 contain
     - contain 判断切片中是否包含某元素
+
+### 0x04 arr
+    - getRows 获取二维数组某些行
+    - getColumns 获取二维数组某些列
+
+### 0x05 string
+    - removeSpaces 移除字符串前后空格
