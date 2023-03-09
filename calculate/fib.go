@@ -2,7 +2,7 @@ package calculate
 
 import "math"
 
-// Calculating the Fibonacci Sequence Using the General Term Formula
+// Fib Calculating the Fibonacci Sequence Using the General Term Formula
 func Fib(n int) int {
 	sqrt5 := math.Sqrt(5)
 	p1 := math.Pow((1+sqrt5)/2, float64(n))
