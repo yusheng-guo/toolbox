@@ -2,6 +2,7 @@ package calculate
 
 import "strconv"
 
+// ConvertToBaseN Convert decimal to base.
 func ConvertToBaseN(num, base int) string {
 	if num == 0 {
 		return "0"
