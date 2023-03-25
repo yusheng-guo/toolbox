@@ -21,6 +21,9 @@ Some small tools about golang.
 ### 0x04 arr
     - getRows 获取二维数组某些行
     - getColumns 获取二维数组某些列
+    - RemoveDuplicates 去重切片中重复的元素
+        - RemoveDuplicatesByMap  速度快 无序
+        - RemoveDuplicatesByLoop 速度慢 有序
 
 ### 0x05 string
     - removeSpaces 移除字符串前后空格
