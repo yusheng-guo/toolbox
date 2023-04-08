@@ -24,6 +24,10 @@ Some small tools about golang.
     - RemoveDuplicates 去重切片中重复的元素
         - RemoveDuplicatesByMap  速度快 无序
         - RemoveDuplicatesByLoop 速度慢 有序
+    - BinarySearch 二叉查找 Bifurcation Lookup
+        - BinarySearch 普通二叉查找 找到即可
+        - BinarySearchFirst 二叉查找第一个出现的元素
+        - BinarySearchLast 二叉查找最后一个出现的元素
 
 ### 0x05 string
     - removeSpaces 移除字符串前后空格

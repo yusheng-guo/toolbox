@@ -1,4 +1,4 @@
-package contain
+package arr
 
 func ContainString(strs []string, s string) bool {
 	for _, v := range strs {

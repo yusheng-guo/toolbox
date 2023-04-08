@@ -1,4 +1,4 @@
-package contain
+package arr
 
 import (
 	"fmt"
