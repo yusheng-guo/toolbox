@@ -1,5 +1,6 @@
 package calculate
 
+// IsPrime Determine if a number is prime.
 func IsPrime(num int) bool {
 	if num <= 1 {
 		return false

@@ -14,6 +14,7 @@ Some small tools about golang.
     - primeFactors 获取一个数的所有质因数
     - convertToBaseN 将十进制转化为N进制
     - sign 判断数字正负
+    - isPrime 判断是否为质数
 
 ### 0x03 contain
     - contain 判断切片中是否包含某元素
