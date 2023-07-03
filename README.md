@@ -32,3 +32,6 @@ Some small tools about golang.
 
 ### 0x05 string
     - removeSpaces 移除字符串前后空格
+
+### 0x06 conv
+    - struct2map 将结构体转为map
